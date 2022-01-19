@@ -8,9 +8,9 @@
 
 
 **## Hobbies:**
- * _Gamming...
- * _Coding
- * _Traveling 
+ * _Gamming..._
+ * _Coding_
+ * _Traveling_
 
 ## I'm major in:   *_Computer Sience _*
  [![hinha](https://user-images.githubusercontent.com/94024704/150050219-453d204b-a026-4403-b0e2-5340c5ad5d36.png)
