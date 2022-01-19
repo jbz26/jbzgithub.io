@@ -1,6 +1,3 @@
-##Welcome to My Github page
-
-
 
 ### About me
 
