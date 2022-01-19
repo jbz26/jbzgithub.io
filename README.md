@@ -3,8 +3,9 @@
 
 
 ### About me:
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * Birthday: 26/08/2XXX.
+ * Place of my birth: Binh Dinh province.
+ * Address: Cam My district, Dong Nai province.
 
 ```markdown
 Syntax highlighted code block
