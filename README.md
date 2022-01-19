@@ -21,6 +21,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Contract me:
   _FaceBook : [My facebook](https://www.facebook.com/jubao26z/)_
-  _Zalo : [My zalo](https://chat.zalo.me)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
