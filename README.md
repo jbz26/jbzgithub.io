@@ -2,7 +2,6 @@
 ### About me
 
 ```markdown
-Syntax highlighted code block
 
  * Birthday: 26/08/2XXX.
  * Place of my birth: Binh Dinh province.
