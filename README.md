@@ -20,6 +20,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## I'm major in:   *_Computer Sience _*
 
 ## Contract me:
-  FaceBook ![hinhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png) [My face book](https://www.facebook.com/jubao26z/)
+  _FaceBook : [My facebook](https://www.facebook.com/jubao26z/)_
+  _Zalo : [My zalo](https://chat.zalo.me)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
