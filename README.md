@@ -1,10 +1,10 @@
 
 ## About me:
 
- * Name: To Thien Bao Nguyen.
- * Birthday: 26/08/2XXX.
- * Place of my birth: Binh Dinh province.
- * Address: Cam My district, Dong Nai province.
+ * _Name: To Thien Bao Nguyen._
+ * _Birthday: 26/08/2XXX._
+ * _Place of my birth: Binh Dinh province._
+ * _Address: Cam My district, Dong Nai province._
 
 
 ## Hobbies:
