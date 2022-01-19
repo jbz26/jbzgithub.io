@@ -18,7 +18,7 @@
 ](https://vi.wikipedia.org/wiki/Khoa_học_máy_tính)
 ## Contract me:
 
-   _  FaceBook : [My facebook](https://www.facebook.com/jubao26z/) ~_
+   _---->FaceBook : [My facebook](https://www.facebook.com/jubao26z/)<---- _
    
    _(P/s: Đây là lần đầu em tập làm web nên chưa được tốt lắm, em sẽ cố gắng nhiều hơn trong trương lai!!)_
 
