@@ -2,17 +2,14 @@
 
 
 
-### About me:
- * Birthday: 26/08/2XXX.
- * Place of my birth: Binh Dinh province.
- * Address: Cam My district, Dong Nai province.
+### About me
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+ * Birthday: 26/08/2XXX.
+ * Place of my birth: Binh Dinh province.
+ * Address: Cam My district, Dong Nai province.
 
 - Bulleted
 - List
