@@ -20,5 +20,5 @@
 
    _FaceBook : [My facebook](https://www.facebook.com/jubao26z/)_
    
-   _(Đây là lần đầu em tập làm web nên chưa được tốt lắm, em sẽ cố gắng nhiều hơn trong trương lai!!)_
+   _(P/s: Đây là lần đầu em tập làm web nên chưa được tốt lắm, em sẽ cố gắng nhiều hơn trong trương lai!!)_
 
